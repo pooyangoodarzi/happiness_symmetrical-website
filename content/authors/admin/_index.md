@@ -12,7 +12,7 @@ role: Cosmology, Data Analysis
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Computational Cosmology Group, SBU
-  url: ccg.sbu.ac.ir
+  url: http://ccg.sbu.ac.ir
 
 # Short bio (displayed in user profile at end of posts)
 bio: Pseudo-Physicist, Cosmology Student, Linux Enthusiast, Mustache-bearer, Ph.D. Position Seeker, Runner, and Feminist.
