@@ -1,5 +1,12 @@
 #!/bin/bash
 
+
+cd ../blog-fa
+hugo 
+sudo cp -r public/* ../happiness_symmetrical-website/static/blog-fa
+
+
+cd ../happiness_symmetrical-website
 hugo
 sudo cp -r public/* ../pooyangoodarzi.github.io/
 
