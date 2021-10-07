@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  # - name: بلاگ
-  #   url: '/blog-fa'
-  #   weight: 10
+  - name: روزنوشت
+    url: '/blog-fa'
+    weight: 80
   - name: blog
     url: '#posts'
     weight: 20
